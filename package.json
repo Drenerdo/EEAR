@@ -1,7 +1,7 @@
 {
-  "name": "express-static-template",
+  "name": "EE_Demo_AR",
   "version": "1.0.0",
-  "description": "Basic ExpressJS based template for static websites.",
+  "description": "Gallery of 3D models to showcase in Augmented Reality.",
   "main": "app.js",
   "scripts": {
     "start": "node src/app.js"
@@ -10,12 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/roeintheglasses/express-static-template.git"
   },
-  "author": "Hrishi Jangir",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/roeintheglasses/express-static-template/issues"
-  },
-  "homepage": "https://github.com/roeintheglasses/express-static-template#readme",
+  "author": "Emmersive Entertainment",
   "dependencies": {
     "express": "^4.17.1"
   }
